@@ -19,4 +19,4 @@ real name:Sasha
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabeg&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabeg&show_icons=true)
