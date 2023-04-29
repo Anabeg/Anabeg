@@ -1,1 +1,1 @@
-![banner](https://github.com/Anabeg/Anabeg/blob/main/profile.mp4)
+![banner](https://github.com/Anabeg/Anabeg/blob/main/profile.gif)
