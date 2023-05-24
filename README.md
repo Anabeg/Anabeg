@@ -2,9 +2,9 @@ internet name:Anabel
 
 real name:Sasha
 
-> [**my site**](https://anabeg.github.io)
+> [**my site**] no site :(
 
-> [**my telegram**](https://t.me/new_anabel_bot)
+> [**my telegram**] no tg :(
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabeg&show_icons=true&theme=radical)
